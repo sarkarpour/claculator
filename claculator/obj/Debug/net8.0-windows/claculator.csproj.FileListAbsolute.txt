@@ -1,0 +1,50 @@
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\bin\Debug\net8.0-windows\claculator.exe
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\bin\Debug\net8.0-windows\claculator.deps.json
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\bin\Debug\net8.0-windows\claculator.runtimeconfig.json
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\bin\Debug\net8.0-windows\claculator.dll
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\bin\Debug\net8.0-windows\claculator.pdb
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.Form1.resources
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.Properties.Resources.resources
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.AssemblyInfo.cs
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.dll
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\refint\claculator.dll
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.pdb
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.genruntimeconfig.cache
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\ref\claculator.dll
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\bin\Debug\net8.0-windows\claculator.exe
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\bin\Debug\net8.0-windows\claculator.deps.json
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\bin\Debug\net8.0-windows\claculator.runtimeconfig.json
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\bin\Debug\net8.0-windows\claculator.dll
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\bin\Debug\net8.0-windows\claculator.pdb
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.Form1.resources
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.Properties.Resources.resources
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.AssemblyInfo.cs
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.dll
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\refint\claculator.dll
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.pdb
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.genruntimeconfig.cache
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\ref\claculator.dll
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.Form2.resources
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.Form3.resources
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.Form4.resources
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.Form5.resources
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\tamarin\claculator mac\claculator\obj\Debug\net8.0-windows\claculator.csproj.CopyComplete
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.Form2.resources
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.Form3.resources
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.Form4.resources
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.Form5.resources
+C:\Users\Asus\Desktop\tamarin\claculator\claculator\obj\Debug\net8.0-windows\claculator.csproj.CopyComplete
